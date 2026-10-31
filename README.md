@@ -94,3 +94,11 @@ Never enter passwords, OTPs, or personal information into suspicious websites.
 ## Author
 
 Developed as an educational machine learning and cybersecurity project.
+
+## 📚 Learning Resources
+
+### Phishing Awareness Flashcards
+![Phishing Flashcards](resources/Phishing-Flashcards.png)
+
+### Defense Against Phishing Infographic
+![Phishing Infographic](resources/Phishing-Infographic.png)
